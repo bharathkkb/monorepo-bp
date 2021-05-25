@@ -2,4 +2,4 @@
 
 This blueprint deploys a Redis instance and storage bucket into Google Cloud
 
-feat
+fix
