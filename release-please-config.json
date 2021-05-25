@@ -1,0 +1,15 @@
+{
+    "packages": {
+      "blueprints/bucket": {
+        "package-name": "bucket-blueprint",
+        "changelog-path": "CHANGELOG.md"
+      },
+      "blueprints/redis-bucket": {
+        "package-name": "redis-bucket-blueprint",
+        "changelog-path": "CHANGELOG.md"
+      }
+    },
+    "bootstrap-sha": "d5426588327d9bd1ad11a49a2f2272185a3b50dc",
+    "release-type": "simple",
+    "bump-minor-pre-major": true
+  }
