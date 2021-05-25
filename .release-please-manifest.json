@@ -1,4 +1,4 @@
 {
-  "blueprints/bucket": "0.1.0",
-  "blueprints/redis-bucket": "0.1.0"
+  "blueprints/bucket": "0.2.0",
+  "blueprints/redis-bucket": "0.1.1"
 }
